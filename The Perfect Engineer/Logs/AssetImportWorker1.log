@@ -1,0 +1,133 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.928; Version 2004; 64bit' Language: 'ko' Physical Memory: 8050 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/김동빈/Desktop/UNity/The Perfect Engineer
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+64671
+Successfully changed project path to: C:/Users/김동빈/Desktop/UNity/The Perfect Engineer
+C:/Users/김동빈/Desktop/UNity/The Perfect Engineer
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 665.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/김동빈/Desktop/UNity/The Perfect Engineer/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   
+    VRAM:     4025 MB
+    Driver:   21.20.16.4534
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56120
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004122 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 798.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.435 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.016584 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 295.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.819 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.31 seconds
+Refreshing native plugins compatible for Editor in 4.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2949 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.6 MB.
+System memory in use after: 142.8 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3411.
+Total: 16.147300 ms (FindLiveObjects: 2.619600 ms CreateObjectMapping: 2.013300 ms MarkObjects: 10.988400 ms  DeleteObjects: 0.513800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Asset/Map/ETC/prefabs/room_controller01-front.prefab
+  artifactKey: Guid(11df71c26a051f741967f30be0e87617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/Map/ETC/prefabs/room_controller01-front.prefab using Guid(11df71c26a051f741967f30be0e87617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05291f04c9d21b7016db82b3a4cb349e') in 1.550295 seconds
+  Import took 1.590784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Perfect DOS VGA 437 Win SDF.asset
+  artifactKey: Guid(6e5b15d80e2924545ad53c57fb52cf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Perfect DOS VGA 437 Win SDF.asset using Guid(6e5b15d80e2924545ad53c57fb52cf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '269e114ae38e9eff2be966f1898cf127') in 0.900215 seconds
+  Import took 0.911867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002918 seconds.
+  path: Assets/Asset/Map/ETC/prefabs/room_controller01-side.prefab
+  artifactKey: Guid(8d0af914fd9e0e443b8d6da978b9683f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/Map/ETC/prefabs/room_controller01-side.prefab using Guid(8d0af914fd9e0e443b8d6da978b9683f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a92716853626538fe044ea7b9eaee30') in 0.875763 seconds
+  Import took 1.047453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002281 seconds.
+  path: Assets/Asset/Material
+  artifactKey: Guid(ca27de206a052824d8100a8104dbc23d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/Material using Guid(ca27de206a052824d8100a8104dbc23d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed55f2877ce68207dcc5d009d55a98b2') in 0.090166 seconds
+  Import took 0.183363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006700 seconds.
+  path: Assets/Asset/Shader
+  artifactKey: Guid(84f2c121a1bcb4240bf7a3bd6aa84e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/Shader using Guid(84f2c121a1bcb4240bf7a3bd6aa84e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb0e0b9e341c202310489c457563e40f') in 0.061222 seconds
+  Import took 0.097975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001015 seconds.
+  path: Assets/Asset/Pipeline
+  artifactKey: Guid(74e204b566d69af49b1639e1ea01206e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/Pipeline using Guid(74e204b566d69af49b1639e1ea01206e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50d0209b4b4e2857e6979641d2f09bb5') in 0.083829 seconds
+  Import took 0.173648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022496 seconds.
+  path: Assets/Asset/Map/ETC/prefabs/roomPanel.prefab
+  artifactKey: Guid(6308bf5ed00e9904b843374d859db3b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/Map/ETC/prefabs/roomPanel.prefab using Guid(6308bf5ed00e9904b843374d859db3b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fbef7aeef9e523b14b6a6485003cfd0') in 0.516405 seconds
+  Import took 0.600984 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

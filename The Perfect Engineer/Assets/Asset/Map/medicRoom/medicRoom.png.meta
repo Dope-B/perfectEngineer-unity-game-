@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 71aff641207e1784198689ca5e9d755f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -147110378147775922
+    second: medicRoom_0
+  - first:
+      213: 8841446446993344142
+    second: medicRoom_1
+  - first:
+      213: -6470991157199771239
+    second: medicRoom_2
+  - first:
+      213: 3953333254281192255
+    second: medicRoom_3
+  - first:
+      213: -392174405325433123
+    second: medicRoom_4
+  - first:
+      213: 8192962795076239669
+    second: medicRoom_5
+  - first:
+      213: -5032148047593268692
+    second: medicRoom_6
+  - first:
+      213: 4377890087486391060
+    second: medicRoom_7
+  - first:
+      213: 293332453891828456
+    second: medicRoom_8
+  - first:
+      213: -7315547683589454256
+    second: medicRoom_9
+  - first:
+      213: -7956211454953860452
+    second: medicRoom_10
+  - first:
+      213: -5850331612700787796
+    second: medicRoom_11
+  - first:
+      213: -1677984800408704871
+    second: medicRoom_12
+  - first:
+      213: 1692209953654700947
+    second: medicRoom_13
+  - first:
+      213: 2837323956911475588
+    second: medicRoom_14
+  - first:
+      213: -7784874124542317363
+    second: medicRoom_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medicRoom_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 8
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a7ab7f3eb55fdf0800000000000000
+      internalID: -147110378147775922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medicRoom_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 205
+        width: 13
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e868da513b023ba70800000000000000
+      internalID: 8841446446993344142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medicRoom_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 206
+        width: 9
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999e96ac3db6236a0800000000000000
+      internalID: -6470991157199771239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medicRoom_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 164
+        width: 152
+        height: 83
+      alignment: 9
+      pivot: {x: 0.49750277, y: 0.6012208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f336b2c26af0dd630800000000000000
+      internalID: 3953333254281192255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medicRoom_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 180
+        width: 10
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6d398c477be8af0800000000000000
+      internalID: -392174405325433123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medicRoom_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 182
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531c282014043b170800000000000000
+      internalID: 8192962795076239669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medicRoom_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 179
+        width: 15
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a170e13083a2ab0800000000000000
+      internalID: -5032148047593268692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medicRoom_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 164
+        width: 12
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413845ae6d361cc30800000000000000
+      internalID: 4377890087486391060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medicRoom_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 164
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eae05b0050221400800000000000000
+      internalID: 293332453891828456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medicRoom_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 164
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05608362424f97a90800000000000000
+      internalID: -7315547683589454256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medicRoom_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 27
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92d495e5dbd59190800000000000000
+      internalID: -7956211454953860452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medicRoom_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 133
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab3bb605627fcea0800000000000000
+      internalID: -5850331612700787796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medicRoom_12
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 62
+        width: 53
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9986221e6b996b8e0800000000000000
+      internalID: -1677984800408704871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medicRoom_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 89
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bf7f4bcffeb7710800000000000000
+      internalID: 1692209953654700947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medicRoom_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 73
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b0a642b13306720800000000000000
+      internalID: 2837323956911475588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medicRoom_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 9
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc6681da3296f390800000000000000
+      internalID: -7784874124542317363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

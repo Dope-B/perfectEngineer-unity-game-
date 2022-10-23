@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - actionObject
+  - wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - wall
+  - actionButton
+  - miniMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3274393149
+    locked: 0
+  - name: Road
+    uniqueID: 1844772843
+    locked: 0
+  - name: Wall
+    uniqueID: 2093014175
+    locked: 0
+  - name: Object
+    uniqueID: 3026853311
+    locked: 0
+  - name: UI
+    uniqueID: 1247630477
+    locked: 0

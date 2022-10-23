@@ -1,0 +1,1354 @@
+fileFormatVersion: 2
+guid: 8d3448a3344aaa24e90102cb84742ce8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2140627820173659723
+    second: celianna_sciencelab_0
+  - first:
+      213: 8546714852800417737
+    second: celianna_sciencelab_1
+  - first:
+      213: 4869410298504732038
+    second: celianna_sciencelab_2
+  - first:
+      213: -5686387710189949928
+    second: celianna_sciencelab_3
+  - first:
+      213: 1072070319634387157
+    second: celianna_sciencelab_4
+  - first:
+      213: 4848997435439923614
+    second: celianna_sciencelab_5
+  - first:
+      213: 6913825927301575440
+    second: celianna_sciencelab_6
+  - first:
+      213: 4601315546335777228
+    second: celianna_sciencelab_7
+  - first:
+      213: -1298817482713163378
+    second: celianna_sciencelab_8
+  - first:
+      213: 1413912518064850842
+    second: celianna_sciencelab_9
+  - first:
+      213: -8366452943465460445
+    second: celianna_sciencelab_10
+  - first:
+      213: 5920661175338822354
+    second: celianna_sciencelab_11
+  - first:
+      213: 341368202022663635
+    second: celianna_sciencelab_12
+  - first:
+      213: -9203416387477005236
+    second: celianna_sciencelab_13
+  - first:
+      213: 2540432863003907989
+    second: celianna_sciencelab_14
+  - first:
+      213: 5401464088810994577
+    second: celianna_sciencelab_15
+  - first:
+      213: 2670475011731277226
+    second: celianna_sciencelab_16
+  - first:
+      213: 1265704732055589796
+    second: celianna_sciencelab_17
+  - first:
+      213: 4316114655162152139
+    second: celianna_sciencelab_18
+  - first:
+      213: -1677442314343023434
+    second: celianna_sciencelab_19
+  - first:
+      213: 8165485055448763300
+    second: celianna_sciencelab_20
+  - first:
+      213: 8957261034328560860
+    second: celianna_sciencelab_21
+  - first:
+      213: -4235326518001191902
+    second: celianna_sciencelab_22
+  - first:
+      213: 4022665496002677534
+    second: celianna_sciencelab_23
+  - first:
+      213: -3110624159630201209
+    second: celianna_sciencelab_24
+  - first:
+      213: -7486073824658785674
+    second: celianna_sciencelab_25
+  - first:
+      213: 90885849780703115
+    second: celianna_sciencelab_26
+  - first:
+      213: 4551324910945920827
+    second: celianna_sciencelab_27
+  - first:
+      213: 2897279136145934454
+    second: celianna_sciencelab_28
+  - first:
+      213: -732880784216718408
+    second: celianna_sciencelab_29
+  - first:
+      213: 691661551420065192
+    second: celianna_sciencelab_30
+  - first:
+      213: 6675507506626520800
+    second: celianna_sciencelab_31
+  - first:
+      213: -3922230141501507891
+    second: celianna_sciencelab_32
+  - first:
+      213: -6253001040682666755
+    second: celianna_sciencelab_33
+  - first:
+      213: 309258740467994928
+    second: celianna_sciencelab_34
+  - first:
+      213: 3898369509690272422
+    second: celianna_sciencelab_35
+  - first:
+      213: -6248345324714899860
+    second: celianna_sciencelab_36
+  - first:
+      213: 422669440763537766
+    second: celianna_sciencelab_37
+  - first:
+      213: -2775623760125957510
+    second: celianna_sciencelab_38
+  - first:
+      213: -5074679548369334950
+    second: celianna_sciencelab_39
+  - first:
+      213: 1810068009775583070
+    second: celianna_sciencelab_40
+  - first:
+      213: 787968930116187591
+    second: celianna_sciencelab_41
+  - first:
+      213: 5736451470871798967
+    second: celianna_sciencelab_42
+  - first:
+      213: 245198394691214898
+    second: celianna_sciencelab_43
+  - first:
+      213: 8565367953462762850
+    second: celianna_sciencelab_44
+  - first:
+      213: -9028721115257408624
+    second: celianna_sciencelab_45
+  - first:
+      213: -7446089600168750299
+    second: celianna_sciencelab_46
+  - first:
+      213: 1751595447092573545
+    second: celianna_sciencelab_47
+  - first:
+      213: -2077560897617418634
+    second: celianna_sciencelab_48
+  - first:
+      213: -2567932832560449426
+    second: celianna_sciencelab_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: celianna_sciencelab_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e05c139a905bd10800000000000000
+      internalID: 2140627820173659723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf49bd40e70c9670800000000000000
+      internalID: 8546714852800417737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dd0040ede939340800000000000000
+      internalID: 4869410298504732038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c2bfe5184e511b0800000000000000
+      internalID: -5686387710189949928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 357
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d01c009642c0ee00800000000000000
+      internalID: 1072070319634387157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 357
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e914d28f9791b4340800000000000000
+      internalID: 4848997435439923614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 357
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01332b3cc08d2ff50800000000000000
+      internalID: 6913825927301575440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_7
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 357
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc193de4c182bdf30800000000000000
+      internalID: 4601315546335777228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8990d2816ca9fde0800000000000000
+      internalID: -1298817482713163378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 341
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97cbb6a1f93f9310800000000000000
+      internalID: 1413912518064850842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 341
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d48b2106364eb80800000000000000
+      internalID: -8366452943465460445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 341
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da648f48f96a2250800000000000000
+      internalID: 5920661175338822354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 334
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5bc233298ccb400800000000000000
+      internalID: 341368202022663635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 335
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c9c60be85e64080800000000000000
+      internalID: -9203416387477005236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 335
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5979317aa3e614320800000000000000
+      internalID: 2540432863003907989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 229
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bbb9878fad5fa40800000000000000
+      internalID: 5401464088810994577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 229
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5ccc7dfde6f0520800000000000000
+      internalID: 2670475011731277226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 229
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a354b07fbfa09110800000000000000
+      internalID: 1265704732055589796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 274
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc43cce396be5eb30800000000000000
+      internalID: 4316114655162152139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 274
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcff524a1788b8e0800000000000000
+      internalID: -1677442314343023434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 211
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abc8c43561a15170800000000000000
+      internalID: 8165485055448763300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_21
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 211
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd41a9ff3759e4c70800000000000000
+      internalID: 8957261034328560860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_22
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 212
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2243fbab8f81935c0800000000000000
+      internalID: -4235326518001191902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_23
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 218
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bc573a4f063d730800000000000000
+      internalID: 4022665496002677534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 149
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e6e7fbec7d4d4d0800000000000000
+      internalID: -3110624159630201209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 149
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67afcd6f48f1c1890800000000000000
+      internalID: -7486073824658785674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 149
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fc947e234e24100800000000000000
+      internalID: 90885849780703115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 168
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37615e74ed892f30800000000000000
+      internalID: 4551324910945920827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_28
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 168
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678012d1604353820800000000000000
+      internalID: 2897279136145934454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 104
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b38d0a4fc844d5f0800000000000000
+      internalID: -732880784216718408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 123
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a540353486499900800000000000000
+      internalID: 691661551420065192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e66deb75ba24ac50800000000000000
+      internalID: 6675507506626520800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_32
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 110
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6f87897707199c0800000000000000
+      internalID: -3922230141501507891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 105
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df436fdeea0e839a0800000000000000
+      internalID: -6253001040682666755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_34
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 112
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03197499f25ba4400800000000000000
+      internalID: 309258740467994928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_35
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 109
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa6d442a6ac91630800000000000000
+      internalID: 3898369509690272422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_36
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 120
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c664566480b6949a0800000000000000
+      internalID: -6248345324714899860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_37
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 130
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669af12fd9f9dd500800000000000000
+      internalID: 422669440763537766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_38
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 121
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aee8365e00b79d0800000000000000
+      internalID: -2775623760125957510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_39
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 107
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d818a66dd1399b0800000000000000
+      internalID: -5074679548369334950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 54
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fc8f5c347ae1910800000000000000
+      internalID: 1810068009775583070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 5
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5be9d219d6fea00800000000000000
+      internalID: 787968930116187591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 69
+        width: 96
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4a4904838fb9f40800000000000000
+      internalID: 5736451470871798967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_43
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 77
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ed01f04ae176300800000000000000
+      internalID: 245198394691214898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_44
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 39
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d99acb5cc4ed670800000000000000
+      internalID: 8565367953462762850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_45
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 69
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093730d5bf983b280800000000000000
+      internalID: -9028721115257408624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 37
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5231630b5fc2aa890800000000000000
+      internalID: -7446089600168750299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_47
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 5
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965f42e57caee4810800000000000000
+      internalID: 1751595447092573545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_48
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 23
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676a54afe550b23e0800000000000000
+      internalID: -2077560897617418634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_sciencelab_49
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 8
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68fb2cb1bedc5cd0800000000000000
+      internalID: -2567932832560449426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
